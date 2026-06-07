@@ -1,0 +1,6 @@
+{
+  "name": "html2elementor",
+  "version": "1.0.0",
+  "description": "Free AI-powered HTML to Elementor JSON converter",
+  "engines": { "node": "24.x" }
+}
